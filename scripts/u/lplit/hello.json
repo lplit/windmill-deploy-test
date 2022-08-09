@@ -8,7 +8,7 @@
       "properties": {
         "name": {
           "type": "string",
-          "default": "Nicolas Bourbaki",
+          "default": "Don Quichotte",
           "description": ""
         }
       }
