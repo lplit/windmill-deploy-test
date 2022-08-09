@@ -14,5 +14,5 @@ jobs:
         with:
           dry_run: false
           input_dir: src
-          windmill_workspace: windmill-labs
+          windmill_workspace: quichotte
           windmill_token: ${{ secrets.WINDMILL_API_TOKEN }}
