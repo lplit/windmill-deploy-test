@@ -1,6 +1,6 @@
 {
   "workspace_id": "starter",
-  "path": "g/all/demodb",
+  "path": "u/don/demodb",
   "value": {
     "host": "demodb.service.consul",
     "port": "6543",
