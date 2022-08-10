@@ -1,8 +1,7 @@
 name: Deploy to windmill.dev
 
 on:
-  push:
-    branches: [main]
+  push
 
 jobs:
   deploy:
