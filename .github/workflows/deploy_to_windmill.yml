@@ -15,3 +15,4 @@ jobs:
           input_dir: .
           windmill_workspace: quichotte
           windmill_token: ${{ secrets.WINDMILL_API_TOKEN }}
+          script_name: 'u/lplit/import_ws'

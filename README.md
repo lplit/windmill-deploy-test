@@ -1,6 +1,5 @@
 Showcase repository demonstrating how to use the 
-[`windmill-gh-action`](action-gh)
- to deploy a workspace to 
+[`windmill-gh-action`](action-gh) to deploy a repository to your workspace.
 
 
 
